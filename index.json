@@ -3,18 +3,22 @@
     "name": "EVENTOS",
     "samples": [
       {
-        "name": "goti",
+        "name": "TIGO",
         "uri": "https://pylocalmillicom.lcdn.une.net.co/VMX4_widevine/rolling-buffer/TigoSportsHD/TigoSportsHD/transmux/index.m3u8?ccur_fmt_type=fmp4",
         "drm_scheme": "widevine",
         "drm_license_uri": "https://mrpw.milcom.vcas.na1.verimatrixcloud.net:8063/?deviceId=MzhjYTc0ZTktNmE5Mi0zMWZhLWJlODAtNzZmY2ZiM2M1MDhm"
       },
       {
-        "name": "EVENTO GOTI 2",
-        "uri": "https://prod-fastly-sa-east-1.video.pscp.tv/Transcoding/v1/hls/lJ1VKsIIOo0HUXtGw7fArTj7Qaq4KmekPMDRBKBzuabxeuDaupfRjoxvWcUi0RK7kDriOWo6qMe4tE6y91XaYQ/transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/tw_dynamic_highlatency.m3u8?type=live"
+        "name": "TIGO",
+        "uri": "https://pylocalmillicom.lcdn.une.net.co/VMX4_widevine/rolling-buffer/TigoSportsHD2/TigoSportsHD2/transmux/index.m3u8?ccur_fmt_type=fmp4",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "https://mrpw.milcom.vcas.na1.verimatrixcloud.net:8063/?deviceId=MzhjYTc0ZTktNmE5Mi0zMWZhLWJlODAtNzZmY2ZiM2M1MDhm"
       },
       {
-        "name": "EVENTO GOTI 3",
-        "uri": "https://vkvsd70.mycdn.me/hls/4535250324167.m3u8/sig/25nLPB_TU2k/expires/1684541346348/srcIp/201.218.157.2/urls/185.226.53.53/clientType/13/srcAg/CHROME_ANDROID/mid/5230513433543/4535250324167_high/index.m3u8"
+        "name": "TIGO",
+        "uri": "https://pylocalmillicom.lcdn.une.net.co/VMX4_widevine/rolling-buffer/TigoSports2HD/TigoSports2HD/transmux/index.m3u8?ccur_fmt_type=fmp4",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "https://mrpw.milcom.vcas.na1.verimatrixcloud.net:8063/?deviceId=MzhjYTc0ZTktNmE5Mi0zMWZhLWJlODAtNzZmY2ZiM2M1MDhm"
       },
       {
         "name": "EVENTO GOTI 4",

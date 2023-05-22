@@ -10,7 +10,7 @@
       },
       {
         "name": "TIGO",
-        "uri": "https://pylocalmillicom.lcdn.une.net.co/VMX4_widevine/rolling-buffer/TigoSportsHD2/TigoSportsHD2/transmux/index.m3u8?ccur_fmt_type=fmp4",
+        "uri": "https://pylocalmillicom.lcdn.une.net.co/VMX4_widevine/rolling-buffer/TigoSportsHD+/TigoSportsHD+/transmux/index.m3u8",
         "drm_scheme": "widevine",
         "drm_license_uri": "https://mrpw.milcom.vcas.na1.verimatrixcloud.net:8063/?deviceId=MzhjYTc0ZTktNmE5Mi0zMWZhLWJlODAtNzZmY2ZiM2M1MDhm"
       },

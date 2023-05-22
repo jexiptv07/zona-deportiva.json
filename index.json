@@ -21,8 +21,10 @@
         "drm_license_uri": "https://mrpw.milcom.vcas.na1.verimatrixcloud.net:8063/?deviceId=MzhjYTc0ZTktNmE5Mi0zMWZhLWJlODAtNzZmY2ZiM2M1MDhm"
       },
       {
-        "name": "EVENTO GOTI 4",
-        "uri": "https://vsd154.mycdn.me/hls/4520326138424.m3u8/sig/WJjllxBP7R0/expires/1684541372249/srcIp/201.218.157.2/urls/185.226.53.64/clientType/0/srcAg/CHROME_ANDROID/mid/5710323129912/4520326138424_high/index.m3u8"
+        "name": "STAR +",
+        "uri": "https://live-akc-sa-east-1.media.starott.com/gru1/qb01/starplus/event/2023/05/22/Empoli_vs_Juventus_20230522_1684774842016/ctr-all-complete.m3u8",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "https://star.playback.edge.bamgrid.com/widevine/v1/obtain-license"
       },
       {
         "name": "TIGO COSTA RICA",

@@ -9,10 +9,10 @@
         "drm_license_uri": "https://mrpw.milcom.vcas.na1.verimatrixcloud.net:8063/?deviceId=MzhjYTc0ZTktNmE5Mi0zMWZhLWJlODAtNzZmY2ZiM2M1MDhm"
       },
       {
-        "name": "TIGO",
-        "uri": "https://pylocalmillicom.lcdn.une.net.co/VMX4_widevine/rolling-buffer/TigoSportsHD+/TigoSportsHD+/transmux/index.m3u8",
+        "name": "CINE XTREMO",
+        "uri": "https://dcs3-live-us1-2.mp.lura.live/server/play/jNRQRKsWY2kxc9Vj/manifest.mpd?anvsid=m176987978-nab82e2252fa07e3f638c3f9078611777&guid=A33D8210-2D07-69C2-8090-F47D1DBF9807",
         "drm_scheme": "widevine",
-        "drm_license_uri": "https://mrpw.milcom.vcas.na1.verimatrixcloud.net:8063/?deviceId=MzhjYTc0ZTktNmE5Mi0zMWZhLWJlODAtNzZmY2ZiM2M1MDhm"
+        "drm_license_uri": "https://drm3.mp.lura.live/cenc?eqp=NCy6w3Qz6mX-MsjsCQkGRTBJXnYWJvQ_ss1CXe-fIvvF20fi0sMvLI7UBl35rjDRhFA4rRAlQ9vZS8qS_Gs97ykBRxJ8asgocP1_yF1otp9nzb-fl7GFX5j_PFHdvPinZAEtvLCXG9L8chhu8iD6cIgqw0z_OEcLfBlLmZFVtOGAYc12x_9Ges-xwQDdH_nUqvnXn5O7K4zO3ewy3B1xirFOgSb2N6uNg-RvwpQjNkwt9IvY5uNc6Q1_V-44AfnsgqkrzCWemY877HaDHKCQPxFgjh0WYNkDldW25HKxefBl926dDoTn9S_W5SwhQwN2&anvauth=tb=0~te=1684736744~sgn=4eb688e46b0bc0fd2e74320c37ac5cf9ac85a05549f32f51e49d063f956ed1fa&t=1684725944&guid=A3AB7BC5-A121-74D7-49C4-7F76377224C0"
       },
       {
         "name": "TIGO",

@@ -35,6 +35,12 @@
         "uri": "https://dcs3-live-ue1.mp.lura.live/server/play/72rkrVtGNBlPfly7/manifest.mpd?anvsid=m176963338-na2289f14ff8b810e5b95641d0bfc4745&guid=0077B593-6097-46FA-C33F-B99A88665A47",
         "drm_scheme": "widevine",
         "drm_license_uri": "http://guiguiom.elementfx.com/vixplus-lic.php"
+      },
+      {
+        "name": "test ip",
+        "uri": "http://192.168.100.2/canales/?id=FOROCABLE_1",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/directvone1.json"
       }
     ]
   },

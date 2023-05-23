@@ -34,7 +34,7 @@
         "name": "VIX",
         "uri": "https://dcs3-live-us1-2.mp.lura.live/server/play/0peOeNiWXQPycrQA/manifest.mpd?anvsid=m176987969-n004ae4864e7f29a33f0d129f08e1665e&guid=D6B095BF-7C3E-26F9-2AE1-A37D7B7C19D4",
         "drm_scheme": "widevine",
-        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/vix/vixlic.php"
+        "drm_license_uri": "http://guiguiom.elementfx.com/vixplus-lic.php"
       }
     ]
   },

@@ -32,7 +32,7 @@
       },
       {
         "name": "VIX",
-        "uri": "https://dcs3-live-us1-2.mp.lura.live/server/play/0peOeNiWXQPycrQA/manifest.mpd?anvsid=m176987969-n004ae4864e7f29a33f0d129f08e1665e&guid=D6B095BF-7C3E-26F9-2AE1-A37D7B7C19D4",
+        "uri": "https:\/\/dcs3-live-uw1-2.mp.lura.live\/server\/play\/7RWKW6uLlrqoFVJ0\/manifest.mpd?anvsid=m176955183-n0e74c0b06ede556f85b02abaa92387ee",
         "drm_scheme": "widevine",
         "drm_license_uri": "http://guiguiom.elementfx.com/vixplus-lic.php"
       }

@@ -3,13 +3,13 @@
     "name": "EVENTOS",
     "samples": [
       {
-        "name": "TIGO SPORTS NOTICIAS",
+        "name": "TIGO SPORTS NOTICIAS Y EVENTOS PY",
         "uri": "https://pylocalmillicom.lcdn.une.net.co/VMX4_widevine/rolling-buffer/TigoSportsHD/TigoSportsHD/transmux/index.m3u8?ccur_fmt_type=fmp4",
         "drm_scheme": "widevine",
         "drm_license_uri": "https://exoplaydoo.000webhostapp.com/noticias.php"
       },
       {
-        "name": "TIGO SPORTS LA LIGA",
+        "name": "TIGO SPORTS LA LIGA E INTERMEDIA",
         "uri": "https://pylocalmillicom.lcdn.une.net.co/VMX4_widevine/rolling-buffer/TigoSports3HDPY/TigoSports3HDPY/transmux/index.m3u8?ccur_fmt_type=fmp4",
         "drm_scheme": "widevine",
         "drm_license_uri": "https://exoplaydoo.000webhostapp.com/akamai.php"

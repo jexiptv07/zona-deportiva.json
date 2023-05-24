@@ -38,7 +38,7 @@
       },
       {
         "name": "test ip",
-        "uri": "http://192.168.100.2/canales/FOROCABLE_1.mpd",
+        "uri": "http://192.168.100.2/canaleskid/DIRECTV.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/directvone1.json"
       }

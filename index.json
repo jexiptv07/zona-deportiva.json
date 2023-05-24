@@ -6,41 +6,23 @@
         "name": "TIGO SPORTS NOTICIAS",
         "uri": "https://pylocalmillicom.lcdn.une.net.co/VMX4_widevine/rolling-buffer/TigoSportsHD/TigoSportsHD/transmux/index.m3u8?ccur_fmt_type=fmp4",
         "drm_scheme": "widevine",
-        "drm_license_uri": "https://mrpw.milcom.vcas.na1.verimatrixcloud.net:8063/?deviceId=MzhjYTc0ZTktNmE5Mi0zMWZhLWJlODAtNzZmY2ZiM2M1MDhm"
+        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/noticias.php"
       },
       {
         "name": "TIGO SPORTS LA LIGA",
         "uri": "https://pylocalmillicom.lcdn.une.net.co/VMX4_widevine/rolling-buffer/TigoSports3HDPY/TigoSports3HDPY/transmux/index.m3u8?ccur_fmt_type=fmp4",
         "drm_scheme": "widevine",
-        "drm_license_uri": "https://mrpw.milcom.vcas.na1.verimatrixcloud.net:8063/?deviceId=MzhjYTc0ZTktNmE5Mi0zMWZhLWJlODAtNzZmY2ZiM2M1MDhm"
+        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/akamai.php"
       },
       {
         "name": "TIGO SPORTS +",
         "uri": "https://pylocalmillicom.lcdn.une.net.co/VMX4_widevine/rolling-buffer/TigoSportsPlusHD/TigoSportsPlusHD/transmux/index.m3u8?ccur_fmt_type=fmp4",
         "drm_scheme": "widevine",
-        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/licence.php"
+        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/xxx.php"
       },
       {
-        "name": "STAR +",
-        "uri": "https://live-ftc-sa-east-1.media.starott.com/gru1/qb01/starplus/event/2023/05/22/SportsCenter_Argentina_Ta_20230522_1684783502025/ctr-all-complete.m3u8",
-        "drm_scheme": "widevine",
-        "drm_license_uri": "http://192.168.100.2/star-uto/"
-      },
-      {
-        "name": "TIGO GUATEMALA",
+        "name": "TIGO BOLIVIA",
         "uri": "https://nffthex0kzt.xyz/rk/GsJ9AUwJs3/zFbdgcheJU/1170.ts"
-      },
-      {
-        "name": "VIX",
-        "uri": "https://dcs3-live-ue1.mp.lura.live/server/play/72rkrVtGNBlPfly7/manifest.mpd?anvsid=m176963338-na2289f14ff8b810e5b95641d0bfc4745&guid=0077B593-6097-46FA-C33F-B99A88665A47",
-        "drm_scheme": "widevine",
-        "drm_license_uri": "http://guiguiom.elementfx.com/vixplus-lic.php"
-      },
-      {
-        "name": "test ip",
-        "uri": "http://192.168.100.2/canales/DIRECTV.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/directvone1.json"
       }
     ]
   },

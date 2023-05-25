@@ -4,7 +4,7 @@
     "samples": [
       {
         "name": "TIGO SPORTS NOTICIAS Y EVENTOS PY",
-        "uri": "https://pylocalmillicom.lcdn.une.net.co/VMX4_widevine/rolling-buffer/TigoSportsHD/TigoSportsHD/transmux/index.m3u8?ccur_fmt_type=fmp4",
+        "uri": "https://exoplaydoo.000webhostapp.com/test.php",
         "drm_scheme": "widevine",
         "drm_license_uri": "https://exoplaydoo.000webhostapp.com/noticias.php"
       },

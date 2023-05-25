@@ -199,7 +199,7 @@
         "name": "AMERICA TV",
         "uri": "https://edge-live16-sl.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc_wl/AmericaTV.mpd",
         "drm_scheme": "widevine",
-        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NjY0NDljOWZjYWM5NmMwOTMzMzkwMmFjNDdkYTZiNzc%3D"
+        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/test.php"
       },
       {
         "name": "TV PUBLICA",

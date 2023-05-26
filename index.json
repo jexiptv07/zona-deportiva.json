@@ -26,9 +26,9 @@
       },
       {
         "name": "TEST",
-        "uri": "http://localhost/canales/index.php?id=DIRECTV&f=.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/goti.json"
+        "uri": "https://pylocalmillicom.lcdn.une.net.co/VMX4_widevine/rolling-buffer/TigoSportsPlusHD/TigoSportsPlusHD/transmux/index.m3u8?ccur_fmt_type=fmp4",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "https://1adc-2803-2a00-3c01-e9f9-b8d9-b7a5-a36-c6b5.ngrok-free.app/star/index.php"
       }
     ]
   },

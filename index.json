@@ -467,10 +467,10 @@
         "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/tntsporthd.json"
       },
       {
-        "name": "DIRECTV COLOMBIA",
-        "uri": "https://dtvott-cbc.akamaized.net/dash_live_1060/manifest.mpd",
+        "name": "DIRECTV",
+        "uri": "https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1057",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/directvcolo.json"
+        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/directvcolo.jsonhttp://167.114.129.223/web/keys/dtvar.json"
       },
       {
         "name": "DIRECTV 2",

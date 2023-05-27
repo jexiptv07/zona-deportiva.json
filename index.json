@@ -74,20 +74,20 @@
       {
         "name": "DISCOVERY TEATER",
         "uri": "https://edge-live16-sl.cvattv.com.ar/live/c6eds/Theater_HD/SA_Live_dash_enc_2A/Theater_HD.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://static.dplay.tech/imagenes/json/discoverytheather.json"
+        "drm_scheme": "widevine",
+        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NjY0NDljOWZjYWM5NmMwOTMzMzkwMmFjNDdkYTZiNzc%3D"
       },
       {
         "name": "DISCOVERY TLC",
         "uri": "https://edge-live16-sl.cvattv.com.ar/live/c6eds/TLC/SA_Live_dash_enc_2A/TLC.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://static.dplay.tech/imagenes/json/discoverytlc.json"
+        "drm_scheme": "widevine",
+        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NjY0NDljOWZjYWM5NmMwOTMzMzkwMmFjNDdkYTZiNzc%3D"
       },
       {
         "name": "DISCOVERY WORL",
         "uri": "https://edge-live16-sl.cvattv.com.ar/live/c6eds/Discovery_World_HD/SA_Live_dash_enc_2A/Discovery_World_HD.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://static.dplay.tech/imagenes/json/discoveryworld.json"
+        "drm_scheme": "widevine",
+        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NjY0NDljOWZjYWM5NmMwOTMzMzkwMmFjNDdkYTZiNzc%3D"
       }
     ]
   },
@@ -97,8 +97,8 @@
       {
         "name": "TRECE PY",
         "uri": "https://edge-live16-sl.cvattv.com.ar/live/c4eds/RPC_C4/SA_Live_dash_enc_2A/RPC_C4.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://static.dplay.tech/imagenes/json/rpc.json"
+        "drm_scheme": "widevine",
+        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NjY0NDljOWZjYWM5NmMwOTMzMzkwMmFjNDdkYTZiNzc%3D"
       },
       {
         "name": "UNICANAL",
@@ -115,20 +115,20 @@
       {
         "name": "ABC TV",
         "uri": "https://edge-live16-sl.cvattv.com.ar/live/c5eds/ABC_TV_C4/SA_Live_dash_enc_2A/ABC_TV_C4.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://static.dplay.tech/imagenes/json/abctv.json"
+        "drm_scheme": "widevine",
+        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NjY0NDljOWZjYWM5NmMwOTMzMzkwMmFjNDdkYTZiNzc%3D"
       },
       {
         "name": "TELEFUTURO PY",
         "uri": "https://edge-live16-sl.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc_2A/TELEFUTURO_C4.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://static.dplay.tech/imagenes/json/telefuturo.json"
+        "drm_scheme": "widevine",
+        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NjY0NDljOWZjYWM5NmMwOTMzMzkwMmFjNDdkYTZiNzc%3D"
       },
       {
         "name": "LA TELE",
         "uri": "https://edge-live16-sl.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_Live_dash_enc_2A/LA_TELE_C4.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://static.dplay.tech/imagenes/json/latele.json"
+        "drm_scheme": "widevine",
+        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NjY0NDljOWZjYWM5NmMwOTMzMzkwMmFjNDdkYTZiNzc%3D"
       },
       {
         "name": "C9N",
@@ -139,50 +139,50 @@
       {
         "name": "PARAVISION",
         "uri": "https://edge-live16-sl.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_Live_dash_enc_2A/PARAVISION_C4.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://static.dplay.tech/imagenes/json/paravision.json"
+        "drm_scheme": "widevine",
+        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NjY0NDljOWZjYWM5NmMwOTMzMzkwMmFjNDdkYTZiNzc%3D"
       },
       {
         "name": "SNT",
         "uri": "https://edge-live16-sl.cvattv.com.ar/live/c4eds/SNT_C4/SA_Live_dash_enc_2A/SNT_C4.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://static.dplay.tech/imagenes/json/snt.json"
+        "drm_scheme": "widevine",
+        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NjY0NDljOWZjYWM5NmMwOTMzMzkwMmFjNDdkYTZiNzc%3D"
       },
       {
         "name": "GEN TV",
         "uri": "https://edge-live16-sl.cvattv.com.ar/live/c7eds/GEN_TV/SA_Live_dash_enc_2A/GEN_TV.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://static.dplay.tech/imagenes/json/gentv.json"
+        "drm_scheme": "widevine",
+        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NjY0NDljOWZjYWM5NmMwOTMzMzkwMmFjNDdkYTZiNzc%3D"
       },
       {
         "name": "SUR TV",
         "uri": "https://edge-live16-sl.cvattv.com.ar/live/c4eds/SUR_TV_C4/SA_Live_dash_enc_2A/SUR_TV_C4.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://static.dplay.tech/imagenes/json/sur.json"
+        "drm_scheme": "widevine",
+        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NjY0NDljOWZjYWM5NmMwOTMzMzkwMmFjNDdkYTZiNzc%3D"
       },
       {
         "name": "CANAL PRO",
         "uri": "https://edge-live16-sl.cvattv.com.ar/live/c7eds/Canal_PRO/SA_Live_dash_enc_2A/Canal_PRO.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://static.dplay.tech/imagenes/json/pro.json"
+        "drm_scheme": "widevine",
+        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NjY0NDljOWZjYWM5NmMwOTMzMzkwMmFjNDdkYTZiNzc%3D"
       },
       {
         "name": "5 DIAS PY",
         "uri": "https://edge-live16-sl.cvattv.com.ar/live/c4eds/5_Dias_PY/SA_Live_dash_enc_2A/5_Dias_PY.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://static.dplay.tech/imagenes/json/5dias.json"
+        "drm_scheme": "widevine",
+        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NjY0NDljOWZjYWM5NmMwOTMzMzkwMmFjNDdkYTZiNzc%3D"
       },
       {
         "name": "PY TV",
         "uri": "https://edge-live16-sl.cvattv.com.ar/live/c7eds/Paraguay_TV/SA_Live_dash_enc_2A/Paraguay_TV.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://static.dplay.tech/imagenes/json/paraguaytv.json"
+        "drm_scheme": "widevine",
+        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NjY0NDljOWZjYWM5NmMwOTMzMzkwMmFjNDdkYTZiNzc%3D"
       },
       {
         "name": "TV CÁMARA",
         "uri": "https://edge-live16-sl.cvattv.com.ar/live/c4eds/TV_Camara/SA_Live_dash_enc_2A/TV_Camara.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://static.dplay.tech/imagenes/json/tvcamara.json"
+        "drm_scheme": "widevine",
+        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NjY0NDljOWZjYWM5NmMwOTMzMzkwMmFjNDdkYTZiNzc%3D"
       }
     ]
   },
@@ -319,6 +319,179 @@
         "drm_scheme": "widevine",
         "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NjY0NDljOWZjYWM5NmMwOTMzMzkwMmFjNDdkYTZiNzc%3D"
       }
+    ]
+  },
+  {
+    "name": "DEPORTES",
+    "samples": [
+      {
+        "name": "ESPN PREMIUM",
+        "uri": "https://edge-live11-sl.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=OWVjZWEwNDkwYjE2NTRlN2RjYzVmYTJiYWYwYTM0YjE%3D"
+      },
+      {
+        "name": "ESPN",
+        "uri": "https://edge-live16-sl.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc_2A/ESPN2HD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/espn1.json"
+      },
+      {
+        "name": "ESPN 2",
+        "uri": "https://edge-live16-sl.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_Live_dash_enc_2A/ESPN2_Arg.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://silverplaytv.store/koey/3espn2.json"
+      },
+      {
+        "name": "ESPN 3",
+        "uri": "https://edge-live16-sl.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_enc_2A/ESPN3.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://silverplaytv.store/koey/3espn3.json"
+      },
+      {
+        "name": "ESPN XTRA",
+        "uri": "https://edge-live16-sl.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc_2A/ESPNHD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://silverplaytv.store/koey/3espnextra.json"
+      },
+      {
+        "name": "FOX SPORTS 1",
+        "uri": "https://edge-live11-hr.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://silverplaytv.store/koey/f0x5port.json"
+      },
+      {
+        "name": "FOX SPORTS 2",
+        "uri": "https://edge-live16-sl.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc_2A/FoxSports2HD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://silverplaytv.store/koey/f0x5port2.json"
+      },
+      {
+        "name": "FOX SPORTS 3",
+        "uri": "https://edge-live16-sl.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc_2A/FoxSports3HD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://silverplaytv.store/koey/f0x5port3.json"
+      },
+      {
+        "name": "TYC SPORTS",
+        "uri": "https://edge-live16-sl.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://silverplaytv.store/koey/tycsp0rt.json"
+      },
+      {
+        "name": "DEPORTV",
+        "uri": "https://edge-live16-sl.cvattv.com.ar/live/c3eds/DeporTVHD/SA_Live_dash_enc_2A/DeporTVHD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://silverplaytv.store/koey/d3p0rtv.json"
+      },
+      {
+        "name": "GARAGE TV",
+        "uri": "https://edge-live16-sl.cvattv.com.ar/live/c6eds/El_Garage/SA_Live_dash_enc_2A/El_Garage.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://silverplaytv.store/koey/g4ragetv.json"
+      },
+      {
+        "name": "GOLF CHANNEL",
+        "uri": "https://edge-live16-sl.cvattv.com.ar/live/c6eds/Golf_Channel/SA_Live_dash_enc_2A/Golf_Channel.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://silverplaytv.store/koey/g0lfch.json"
+      },
+      {
+        "name": "NBA",
+        "uri": "https://edge-live16-sl.cvattv.com.ar/live/c6eds/NBA_TV/SA_Live_dash_enc_2A/NBA_TV.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://silverplaytv.store/koey/n-ba.json"
+      },
+      {
+        "name": "DEPORTV",
+        "uri": "https://edge-live16-sl.cvattv.com.ar/live/c3eds/DeporTVHD/SA_Live_dash_enc_2A/DeporTVHD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://silverplaytv.store/koey/d3p0rtv.json"
+      },
+      {
+        "name": "TNT SPORT HD",
+        "uri": "https://edge-live16-sl.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TNT_Sports_HD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/tntsporthd.json"
+      },
+      {
+        "name": "DIRECTV",
+        "uri": "https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1057",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "http://167.114.129.223/web/keys/dtvar.json"
+      },
+      {
+        "name": "DIRECTV +",
+        "uri": "https://dtvott-abc.akamaized.net/dash_live_1071/manifest.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/dtv+.json"
+      },
+      {
+        "name": "TYC SPORT",
+        "uri": "https://edge-live12-sl.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NjY0NDljOWZjYWM5NmMwOTMzMzkwMmFjNDdkYTZiNzc%3D"
+      },
+      {
+        "name": "TUDN HD",
+        "uri" : "https://live1-ott.izzigo.tv/out/u/dash/TUDN-HD/default.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/TUDN.json"  
+      },
+      {
+        "name": "TNT SPORTS BRASIL",
+        "uri": "https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8"
+      },
+      {
+        "name": "TNT SPORTS BRASIL 2",
+        "uri": "https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8"
+      },
+      {
+        "name": "TNT SPORTS BRASIL 3",
+        "uri": "https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8"
+      },
+      {
+        "name": "TNT SPORTS BRASIL 4",
+        "uri": "https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8"
+      },
+      {
+        "name": "TYC SPORT (PLAY 1)",
+        "uri": "https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8"
+      },
+      {
+        "name": "TYC SPORT (PLAY 2)",
+        "uri": "https://dj8bzwveg7go9.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index_9.m3u8"
+      },
+      {
+        "name": "TYC SPORT (PLAY 3)",
+        "uri": "https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index_10.m3u8"
+      },
+      {
+        "name": "TYC SPORT (PLAY 4)",
+        "uri": "https://dj8bzwveg7go9.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index_15.m3u8"
+      },
+      {
+        "name": "TYC SPORT (PLAY 5)",
+        "uri": "https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index_9.m3u8"
+      },
+      {
+        "name": "ARENA  SPORT 1",
+        "uri": "https://webtvstream.bhtelecom.ba/hls7/as_premium1.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/arenasport.json"
+      },
+      {
+        "name": "ARENA  SPORT 2",
+        "uri": "https://webtvstream.bhtelecom.ba/hls7/as_premium2.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/arenasport.json"
+      },
+      {
+        "name": "ARENA  SPORT 3",
+        "uri": "https://webtvstream.bhtelecom.ba/hls7/as_premium3.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/arenasport.json"
+      }   
     ]
   },
   {

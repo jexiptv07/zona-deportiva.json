@@ -33,37 +33,37 @@
         "name": "HISTORY",
         "uri": "https://edge-live16-sl.cvattv.com.ar/live/c7eds/HistoryHD/SA_Live_dash_enc_2A/HistoryHD.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://static.dplay.tech/imagenes/json/history.json"
+        "drm_license_uri": "https://ivotv.xyz/panel/keys/json/history.json"
       },
       {
         "name": "DISCOVERY",
         "uri": "https://edge-live16-sl.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_Live_dash_enc_2A/DiscoveryHD.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://static.dplay.tech/imagenes/json/discovery.json"
+        "drm_license_uri": "https://ivotv.xyz/panel/keys/discovery.json"
       },
       {
         "name": "DISCOVERY H&H",
         "uri": "https://edge-live16-sl.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_Live_dash_enc_2A/DiscoveryHomeHealthHD.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://static.dplay.tech/imagenes/json/discoveryhomehealth.json"
+        "drm_license_uri": "https://ivotv.xyz/panel/keys/discoveryhomehealth.json"
       },
       {
         "name": "DISCOVERY ID",
         "uri": "https://edge-live16-sl.cvattv.com.ar/live/c7eds/ID/SA_Live_dash_enc_2A/ID.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://static.dplay.tech/imagenes/json/discoveryid.json"
+        "drm_license_uri": "https://ivotv.xyz/panel/keys/discoveryid.json"
       },
       {
         "name": "DISCOVERY SCIENCE",
         "uri": "https://edge-live16-sl.cvattv.com.ar/live/c6eds/Discovery_Science/SA_Live_dash_enc_2A/Discovery_Science.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://static.dplay.tech/imagenes/json/discoveryscience.json"
+        "drm_license_uri": "https://ivotv.xyz/panel/keys/discoveryscience.json"
       },
       {
         "name": "DISCOVERY TURBO",
         "uri": "https://edge-live16-sl.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_Live_dash_enc_2A/DiscoveryTurbo.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://static.dplay.tech/imagenes/json/discoveryturbo.json"
+        "drm_license_uri": "https://ivotv.xyz/panel/keys/discoveryturbo.json"
       },
       {
         "name": "DISCOVERY TURBO",

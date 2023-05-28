@@ -6,19 +6,19 @@
         "name": "TIGO SPORTS NOTICIAS Y EVENTOS PY",
         "uri": "https://pylocalmillicom.lcdn.une.net.co/VMX4_widevine/rolling-buffer/TigoSportsHD/TigoSportsHD/transmux/index.m3u8?ccur_fmt_type=fmp4",
         "drm_scheme": "widevine",
-        "drm_license_uri": "https://mrpw.milcom.vcas.na1.verimatrixcloud.net:8063/?deviceId=MzhjYTc0ZTktNmE5Mi0zMWZhLWJlODAtNzZmY2ZiM2M1MDhm"
+        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/xxx.php"
       },
       {
         "name": "TIGO SPORTS LA LIGA E INTERMEDIA",
         "uri": "https://pylocalmillicom.lcdn.une.net.co/VMX4_widevine/rolling-buffer/TigoSports3HDPY/TigoSports3HDPY/transmux/index.m3u8?ccur_fmt_type=fmp4",
         "drm_scheme": "widevine",
-        "drm_license_uri": "https://mrpw.milcom.vcas.na1.verimatrixcloud.net:8063/?deviceId=MzhjYTc0ZTktNmE5Mi0zMWZhLWJlODAtNzZmY2ZiM2M1MDhm"
+        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/xxx.php"
       },
       {
         "name": "TIGO SPORTS +",
         "uri": "https://pylocalmillicom.lcdn.une.net.co/VMX4_widevine/rolling-buffer/TigoSportsPlusHD/TigoSportsPlusHD/transmux/index.m3u8?ccur_fmt_type=fmp4",
         "drm_scheme": "widevine",
-        "drm_license_uri": "https://mrpw.milcom.vcas.na1.verimatrixcloud.net:8063/?deviceId=MzhjYTc0ZTktNmE5Mi0zMWZhLWJlODAtNzZmY2ZiM2M1MDhm"
+        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/xxx.php"
       },
       {
         "name": "TIGO BOLIVIA",

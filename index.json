@@ -25,11 +25,11 @@
         "uri": "https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8"
       },
       {
-        "name": "TIGO",
+        "name": "TIGO GLOBAL 1",
         "uri": "http://103.145.13.138:80/live/Goti123@/Goti123@/3.m3u8"
       },
       {
-        "name": "TIGO BOLIVIA",
+        "name": "TIGO GLOBAL 2",
         "uri": "http://103.145.13.138:80/live/Goti123@/Goti123@/2.m3u8"
       }
     ]

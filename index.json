@@ -26,7 +26,7 @@
       },
       {
         "name": "TEST",
-        "uri": "https:\/\/live-ftc-na-south-2.media.starott.com\/clt2\/va01\/starplus\/event\/2023\/03\/31\/Eintracht_Frankfurt_vs_Vf_20230331_1680281404039\/ctr-all-complete.m3u8",
+        "uri": "https://live-ftc-na-south-2.media.starott.com/clt2/va01/starplus/event/2023/05/30/Fenerbahce_vs_Antalyaspor_20230530_1685460322017/cmaf-cenc-ctr-7000K/7000_complete.m3u8",
         "drm_scheme": "widevine",
         "drm_license_uri": "http://192.168.100.12/star/index.php"
       }

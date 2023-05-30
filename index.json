@@ -31,9 +31,9 @@
     "samples": [
       {
         "name": "HISTORY",
-        "uri": "https://edge-live16-sl.cvattv.com.ar/live/c7eds/HistoryHD/SA_Live_dash_enc_2A/HistoryHD.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://ivotv.xyz/panel/keys/json/history.json"
+        "uri": "https://edge-live15-hr.cvattv.com.ar/live/c7eds/HistoryHD/SA_Live_dash_enc_2A/HistoryHD.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D"
       },
       {
         "name": "DISCOVERY",

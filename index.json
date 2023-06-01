@@ -111,6 +111,42 @@
         "uri": "https://cdn.cvattv.com.ar/live/c7eds/GEN_TV/SA_Live_dash_enc_2A/GEN_TV.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://helloworl.mariabareiro.repl.co/gen.json"
+      },
+      {
+        "name": "LA TELE",
+        "uri": "https://edge-live17-hr.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_Live_dash_enc_2A/LA_TELE_C4.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://helloworl.mariabareiro.repl.co/tele.json"
+      },
+      {
+        "name": "PARAVISION",
+        "uri": "https://cdn.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_Live_dash_enc_2A/PARAVISION_C4.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://helloworl.mariabareiro.repl.co/paravision.json"
+      },
+      {
+        "name": "SNT",
+        "uri": "https://edge-live11-hr.cvattv.com.ar/live/c4eds/SNT_C4/SA_Live_dash_enc_2A/SNT_C4.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://helloworl.mariabareiro.repl.co/snt.json"
+      },
+      {
+        "name": "TELEFUTURO",
+        "uri": "https://edge-live16-sl.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc_2A/TELEFUTURO_C4.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://helloworl.mariabareiro.repl.co/telefuturo.json"
+      },
+      {
+        "name": "RPC",
+        "uri": "https://edge-live12-hr.cvattv.com.ar/live/c4eds/RPC_C4/SA_Live_dash_enc_2A/RPC_C4.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://helloworl.mariabareiro.repl.co/rpc.json"
+      },
+      {
+        "name": "UNICANAL",
+        "uri": "https://edge-live17-hr.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_enc_2A/UNICANAL_C4.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://helloworl.mariabareiro.repl.co/unicanal.json"
       }
     ]
   },

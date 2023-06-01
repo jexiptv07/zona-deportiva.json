@@ -215,50 +215,50 @@
       {
         "name": "HBO",
         "uri": "https://edge-live13-hr.cvattv.com.ar/live/c4eds/HBOHD/SA_Live_dash_enc/HBOHD.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D"
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://helloworl.mariabareiro.repl.co/hbo.json"
       },
       {
         "name": "HBO 2",
         "uri": "https://edge-live12-sl.cvattv.com.ar/live/c6eds/HBO_2/SA_Live_dash_enc/HBO_2.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D"
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://helloworl.mariabareiro.repl.co/hbo2.json"
       },
       {
         "name": "HBO XTREME",
         "uri": "https://edge-live11-sl.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_Live_dash_enc_2A/HBO_Extreme.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D"
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://helloworl.mariabareiro.repl.co/hbox.json"
       },
       {
         "name": "HBO FAMILY",
         "uri": "https://edge-live13-sl.cvattv.com.ar/live/c6eds/HBO_Family/SA_Live_dash_enc_2A/HBO_Family.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D"
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://helloworl.mariabareiro.repl.co/hbof.json"
       },
       {
         "name": "HBO SIGNATURE",
         "uri": "https://edge-live12-hr.cvattv.com.ar/live/c6eds/HBO_Signature/SA_Live_dash_enc_2A/HBO_Signature.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D"
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://helloworl.mariabareiro.repl.co/hbos.json"
       },
       {
         "name": "HBO MUNDI",
         "uri": "https://edge-live16-hr.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_Live_dash_enc_2A/HBO_Mundi.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D"
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://helloworl.mariabareiro.repl.co/hbom.json"
       },
       {
         "name": "HBO PLUS",
         "uri": "https://edge-live11-sl.cvattv.com.ar/live/c6eds/HBO_Plus/SA_Live_dash_enc_2A/HBO_Plus.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D"
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://helloworl.mariabareiro.repl.co/hbop.json"
       },
       {
         "name": "HBO POP",
         "uri": "https://edge-live31-sl.cvattv.com.ar/live/c7eds/HBO_POP/SA_Live_dash_enc/HBO_POP.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D"
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://helloworl.mariabareiro.repl.co/hbopop.json"
       }
     ]
   },

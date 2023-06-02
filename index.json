@@ -9,12 +9,12 @@
         "drm_license_uri": "http://ext-cdn-vip.mp1.tivo.com:8080/images-mp1/images/tivo:pn.97041/person_120x160"
       },
       {
-        "name": "EVENTOS 1",
-        "uri": "https://vsd71.mycdn.me/hls/4807734921941.m3u8/sig/BBbF4eOG2dY/expires/1685827321750/srcIp/181.94.233.42/urls/45.136.22.55/clientType/1/srcAg/UNKNOWN_ANDROID/mid/5699427507925/video.m3u8?p"
+        "name": "OLIMPIA VS GUARANI",
+        "uri": "http://cdnhd.iblups.com/hls/h7uYA9Cq56.m3u8"
       },
       {
-        "name": "EVENTOS 2",
-        "uri": "https://vsd86.mycdn.me/hls/4509174401758.m3u8/sig/yK11G7IwvAM/expires/1685826843327/srcIp/181.94.233.42/urls/45.136.20.35/clientType/1/srcAg/UNKNOWN_ANDROID/mid/6923135229662/video.m3u8?p"
+        "name": "CERRO VS LIBERTAD",
+        "uri": "http://cdnhd.iblups.com/hls/h7uYA9Cq55.m3u8"
       },
       {
         "name": "EVENTOS 3",

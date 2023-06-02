@@ -31,6 +31,12 @@
       {
         "name": "TIGO BOLIVIA",
         "uri": "https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8"
+      },
+      {
+        "name": "test",
+        "uri": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/6356b4596cbd4627bc8620607ebd6106/index.mpd?tts=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1dWlkIjoiODEzYjFhZjAtNTNhZi0xMWVkLTg3YzQtOWZjMTY2ZmUyNzA1IiwibmFtZSI6InJvZHJpZ2dlZGU5OUBnbWFpbC5jb20iLCJ1c2VyX2FnZW50IjoiTW96aWxsYVwvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0XC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWVcLzExMy4wLjAuMCBTYWZhcmlcLzUzNy4zNiIsImRldmljZUlkIjoiNjNhYmVlZTYtZDNiMy00NjgxLTg5ZWMtZWFjYjM4NTI3M2ZkIiwiaXBBZGRyZXNzIjoiMTgxLjk0LjIzMy40MiIsInN0cmVhbWluZ1R5cGUiOiJOb3QgRnJlZSIsImlhdCI6MTY4NTc0MzM5NSwibmJmIjoxNjg1NzQzMzk1LCJleHAiOjE2ODU3NTc3OTV9.e5aW4fsFZFO7xPBdewUW4uPIOPNQtTCEh7mgU5cv6sc",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://picachu.mariabareiro.repl.co/d3kzwqwnq1f7tq.json"
       }
     ]
   },

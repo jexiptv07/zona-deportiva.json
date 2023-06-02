@@ -4,7 +4,7 @@
     "samples": [
       {
         "name": "ESTAMOS TRABAJANDO PARA REESTABLECER LAS SEÑALES",
-        "uri": "https://pylocalmillicom.lcdn.une.net.co/VMX4_widevine/rolling-buffer/TigoSportsHD/TigoSportsHD/transmux/index.m3u8?ccur_fmt_type=fmp4",
+        "uri": "https://pylocalmillicom.lcdn.une.net.co/VMX4/rolling-buffer/TigoSportsHD/TigoSportsHD/transmux/index.m3u8?ccur_fmt_type=fmp4",
         "drm_scheme": "widevine",
         "drm_license_uri": "https://mrpw.milcom.vcas.na1.verimatrixcloud.net:8063/?deviceId=N2RjOGFjY2UtOWMyMy0zMmIxLTg5MGEtM2MzNDY5NzBhN2E4"
       },

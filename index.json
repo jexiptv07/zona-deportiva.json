@@ -36,8 +36,10 @@
         "name": "test",
         "uri": "https://d2jluxxgx550su.cloudfront.net/out/v1/d26818b69b804b629c0f190e509a42b2/index.mpd?tts=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1dWlkIjoiODEzYjFhZjAtNTNhZi0xMWVkLTg3YzQtOWZjMTY2ZmUyNzA1IiwibmFtZSI6InJvZHJpZ2dlZGU5OUBnbWFpbC5jb20iLCJ1c2VyX2FnZW50IjoiTW96aWxsYVwvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0XC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWVcLzExMy4wLjAuMCBTYWZhcmlcLzUzNy4zNiIsImRldmljZUlkIjoiNjNhYmVlZTYtZDNiMy00NjgxLTg5ZWMtZWFjYjM4NTI3M2ZkIiwiaXBBZGRyZXNzIjoiMTgxLjk0LjIzMy40MiIsInN0cmVhbWluZ1R5cGUiOiJOb3QgRnJlZSIsImlhdCI6MTY4NTc0NDI3NiwibmJmIjoxNjg1NzQ0Mjc2LCJleHAiOjE2ODU3NTg2NzZ9._gPyXhuLj_SmpwnF5P8gwtr8qGFzkmUMaJ3BZZfToJA",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://picachu.mariabareiro.repl.co/d2jluxxgx550su.json",
-        "headers": "https://www.tigosports.com.py/"
+        "drm_license_uri": "https://picachu.mariabareiro.repl.co/d2jluxxgx550su.json"
+        "drm_key_request_properties": {
+  "referer": "https://www.tigosports.com.py/"
+}
       }
     ]
   },

@@ -6,7 +6,7 @@
         "name": "ESTAMOS TRABAJANDO PARA REESTABLECER LAS SEÑALES",
         "uri": "https://pylocalmillicom.lcdn.une.net.co/VMX4/rolling-buffer/TigoSportsHD/TigoSportsHD/transmux/index.m3u8?ccur_fmt_type=fmp4",
         "drm_scheme": "widevine",
-        "drm_license_uri": "https://cwip-shaka-proxy.appspot.com/no_auth"
+        "drm_license_uri": "http://ext-cdn-vip.mp1.tivo.com:8080/images-mp1/images/tivo:pn.97041/person_120x160"
       },
       {
         "name": "ESTAMOS TRABAJANDO PARA REESTABLECER LAS SEÑALES",

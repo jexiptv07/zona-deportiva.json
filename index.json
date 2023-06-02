@@ -10,13 +10,13 @@
       },
       {
         "name": "ESTAMOS TRABAJANDO PARA REESTABLECER LAS SEÑALES",
-        "uri": "https://pylocalmillicom.lcdn.une.net.co/VMX4_widevine/rolling-buffer/TigoSports3HDPY/TigoSports3HDPY/transmux/index.m3u8?ccur_fmt_type=fmp4",
+        "uri": "https://pylocalmillicom.lcdn.une.net.co/VMX4/rolling-buffer/TigoSports3HDPY/TigoSports3HDPY/transmux/index.m3u8?ccur_fmt_type=fmp4",
         "drm_scheme": "widevine",
         "drm_license_uri": "https://picachu.mariabareiro.repl.co/"
       },
       {
         "name": "ESTAMOS TRABAJANDO PARA REESTABLECER LAS SEÑALES",
-        "uri": "https://pylocalmillicom.lcdn.une.net.co/VMX4_widevine/rolling-buffer/TigoSportsPlusHD/TigoSportsPlusHD/transmux/index.m3u8?ccur_fmt_type=fmp4",
+        "uri": "https://pylocalmillicom.lcdn.une.net.co/VMX4/rolling-buffer/TigoSportsPlusHD/TigoSportsPlusHD/transmux/index.m3u8?ccur_fmt_type=fmp4",
         "drm_scheme": "widevine",
         "drm_license_uri": "https://picachu.mariabareiro.repl.co/"
       },

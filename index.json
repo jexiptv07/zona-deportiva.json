@@ -4,9 +4,7 @@
     "samples": [
       {
         "name": "LOS CANALES 24/7 SE REESTABLECERAN PRONTO",
-        "uri": "https://pylocalmillicom.lcdn.une.net.co/VMX4/rolling-buffer/TigoSportsHD/TigoSportsHD/transmux/index.m3u8?ccur_fmt_type=fmp4",
-        "drm_scheme": "widevine",
-        "drm_license_uri": "https://multidrm.core.verimatrixcloud.net"
+        "uri": "https://pylocalmillicom.lcdn.une.net.co/VMX4/rolling-buffer/TigoSportsHD/TigoSportsHD/transmux/index.m3u8?ccur_fmt_type=fmp4"
       },
       {
         "name": "OLIMPIA VS GUARANI",

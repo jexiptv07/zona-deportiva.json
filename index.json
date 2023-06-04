@@ -440,6 +440,42 @@
         "uri": "https://webtvstream.bhtelecom.ba/hls7/as_premium3.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/arenasport.json"
+      },
+      {
+        "name": "ARENA  SPORT 4",
+        "uri": "https://webtvstream.bhtelecom.ba/hls7/arena4.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/arenasport.json"
+      },
+      {
+        "name": "ARENA  SPORT 5",
+        "uri": "https://webtvstream.bhtelecom.ba/hls7/arena5.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/arenasport.json"
+      },
+      {
+        "name": "ARENA  SPORT 6",
+        "uri": "https://webtvstream.bhtelecom.ba/hls7/arena6.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/arenasport.json"
+      },
+      {
+        "name": "ARENA  SPORT 1 PREMIUM",
+        "uri": "https://webtvstream.bhtelecom.ba/hls7/as_premium1.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/arenasport.json"
+      },
+      {
+        "name": "ARENA  SPORT 2 PREMIUM",
+        "uri": "https://webtvstream.bhtelecom.ba/hls7/as_premium2.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/arenasport.json"
+      },
+      {
+        "name": "ARENA  SPORT 3 PREMIUM",
+        "uri": "https://webtvstream.bhtelecom.ba/hls7/as_premium3.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/arenasport.json"
       }   
     ]
   },

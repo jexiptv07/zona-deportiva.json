@@ -476,6 +476,12 @@
         "uri": "https://webtvstream.bhtelecom.ba/hls7/as_premium3.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/arenasport.json"
+      },
+      {
+        "name": "EURO  SPORT",
+        "uri": "https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-027/stream.mpd?p=web",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://helloworl.mariabareiro.repl.co/euro.json"
       }   
     ]
   },

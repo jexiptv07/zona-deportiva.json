@@ -9,6 +9,10 @@
       {
         "name": "TIGO BOLIVIA",
         "uri": "https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8"
+      },
+      {
+        "name": "TEST BT SPORT",
+        "uri": "https://t1-live-euwe1.us.qw.streams.sport.bt.com/bts2-wvpr/bts2-wvpr.isml/bts2-wvpr.mpd?decryption_key=c10c5f46e8b94063879e217f0fe7b15d:f2d2ed479dd48bcc1b873d2480f2731d"
       }
     ]
   },

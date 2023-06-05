@@ -312,6 +312,12 @@
         "drm_license_uri": "https://silverplaytv.store/koey/d3p0rtv.json"
       },
       {
+        "name": "AFICIONADOS",
+        "uri": "https://live1-ott.izzigo.tv/out/u/dash/AFIZZIONADOS-HD/default.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://helloworl.mariabareiro.repl.co/aficionados.json"
+      },
+      {
         "name": "GARAGE TV",
         "uri": "https://edge-live15-hr.cvattv.com.ar/live/c6eds/El_Garage/SA_Live_dash_enc_2A/El_Garage.mpd",
         "drm_scheme": "clearkey",

@@ -318,18 +318,6 @@
         "drm_license_uri": "https://helloworl.mariabareiro.repl.co/aficionados.json"
       },
       {
-        "name": "DAZN EVENT",
-        "uri": "https://vod-dash-movistarplus.emisiondof6.com/prod/dash/cplus-2102741-md-02_cplus-2102741-mdrm_enf6a70yr91oz3f/manifest.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://helloworl.mariabareiro.repl.co/dazne.json"
-      },
-      {
-        "name": "BT SPORTS UK",
-        "uri": "https://t1-live-euwe1.us.qw.streams.sport.bt.com/bts1-wvpr/bts1-wvpr.isml/bts1-wvpr.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://helloworl.mariabareiro.repl.co/btsport.json"
-      },
-      {
         "name": "GARAGE TV",
         "uri": "https://edge-live15-hr.cvattv.com.ar/live/c6eds/El_Garage/SA_Live_dash_enc_2A/El_Garage.mpd",
         "drm_scheme": "clearkey",

@@ -9,6 +9,12 @@
       {
         "name": "TIGO BOLIVIA",
         "uri": "https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8"
+      },
+      {
+        "name": "TEST",
+        "uri": "http://192.168.100.12/canales/index.php?id=DIRECTV&f=.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/dtv+.json"
       }
     ]
   },

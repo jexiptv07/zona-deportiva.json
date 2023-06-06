@@ -12,9 +12,9 @@
       },
       {
         "name": "TEST",
-        "uri": "http://192.168.100.12/canales/index.php?id=DIRECTV&f=.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/dtv+.json"
+        "uri": "https://pylocalmillicom.lcdn.une.net.co/VMX4_widevine/rolling-buffer/TigoSportsHD/TigoSportsHD/transmux/index.m3u8?ccur_fmt_type=fmp4",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "https://mrpw.milcom.vcas.na1.verimatrixcloud.net:8063/?deviceId=N2RjOGFjY2UtOWMyMy0zMmIxLTg5MGEtM2MzNDY5NzBhN2E4"
       }
     ]
   },

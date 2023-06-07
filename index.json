@@ -366,10 +366,16 @@
         "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/dtv+.json"
       },
       {
+        "name": "DIRECTV SPORTS MOTOR",
+        "uri": "https://dtvott-abc.akamaized.net/dash_live_1279/manifest.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://helloworl.mariabareiro.repl.co/dsm.json"
+      },
+      {
         "name": "DIRECTV SPORTS FIGHT",
         "uri": "https://dtvott-abc.akamaized.net/dash_live_1259/manifest.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/dsf.json"
+        "drm_license_uri": "https://helloworl.mariabareiro.repl.co/dsf.json"
       },
       {
         "name": "TYC SPORT",

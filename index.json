@@ -297,13 +297,13 @@
         "name": "FOX SPORTS 2",
         "uri": "https://edge-live11-hr.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc/FoxSports2HD.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://silverplaytv.store/koey/f0x5port2.json"
+        "drm_license_uri": "https://helloworl.mariabareiro.repl.co/fs2.json"
       },
       {
         "name": "FOX SPORTS 3",
         "uri": "https://edge-live11-hr.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc/FoxSports3HD.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://silverplaytv.store/koey/f0x5port3.json"
+        "drm_license_uri": "https://helloworl.mariabareiro.repl.co/fs3.json"
       },
       {
         "name": "TYC SPORTS",

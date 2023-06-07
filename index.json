@@ -306,12 +306,6 @@
         "drm_license_uri": "https://helloworl.mariabareiro.repl.co/fs3.json"
       },
       {
-        "name": "FOX SPORTS PREMIUM",
-        "uri": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(FOXSPORTS_PREMIUM_HD)/manifest.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://helloworl.mariabareiro.repl.co/fsp.json"
-      },
-      {
         "name": "TYC SPORTS",
         "uri": "https://edge-live11-hr.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc_2A/TyCSport.mpd",
         "drm_scheme": "clearkey",
@@ -372,10 +366,10 @@
         "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/dtv+.json"
       },
       {
-        "name": "DIRECTV SPORT MOTOR",
-        "uri": "https://dtvott-abc.akamaized.net/dash_live_1279/manifest.mpd",
+        "name": "DIRECTV SPORTS FIGHT",
+        "uri": "https://dtvott-abc.akamaized.net/dash_live_1259/manifest.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://helloworl.mariabareiro.repl.co/dsm.json"
+        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/dsf.json"
       },
       {
         "name": "TYC SPORT",

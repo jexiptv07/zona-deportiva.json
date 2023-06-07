@@ -360,6 +360,12 @@
         "drm_license_uri": "http://167.114.129.223/web/keys/dtvar.json"
       },
       {
+        "name": "DIRECTV SPORT CHILE",
+        "uri": "https://dtvott-abc.akamaized.net/dash_live_1058/manifest.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://helloworl.mariabareiro.repl.co/directvchile.json"
+      },
+      {
         "name": "DIRECTV +",
         "uri": "https://dtvott-abc.akamaized.net/dash_live_1071/manifest.mpd",
         "drm_scheme": "clearkey",

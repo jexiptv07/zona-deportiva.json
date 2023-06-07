@@ -309,13 +309,13 @@
         "name": "TYC SPORTS",
         "uri": "https://edge-live11-hr.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc_2A/TyCSport.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://silverplaytv.store/koey/tycsp0rt.json"
+        "drm_license_uri": "https://helloworl.mariabareiro.repl.co/tyc.json"
       },
       {
         "name": "DEPORTV",
         "uri": "https://edge-live16-sl.cvattv.com.ar/live/c3eds/DeporTVHD/SA_Live_dash_enc_2A/DeporTVHD.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://silverplaytv.store/koey/d3p0rtv.json"
+        "drm_license_uri": "https://helloworl.mariabareiro.repl.co/deportv.json"
       },
       {
         "name": "AFICIONADOS",
@@ -333,19 +333,19 @@
         "name": "GOLF CHANNEL",
         "uri": "https://edge-live16-sl.cvattv.com.ar/live/c6eds/Golf_Channel/SA_Live_dash_enc_2A/Golf_Channel.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://silverplaytv.store/koey/g0lfch.json"
+        "drm_license_uri": "https://helloworl.mariabareiro.repl.co/gc.json"
       },
       {
         "name": "NBA",
         "uri": "https://edge-live16-sl.cvattv.com.ar/live/c6eds/NBA_TV/SA_Live_dash_enc_2A/NBA_TV.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://silverplaytv.store/koey/n-ba.json"
+        "drm_license_uri": "https://helloworl.mariabareiro.repl.co/nba.json"
       },
       {
         "name": "DEPORTV",
         "uri": "https://edge-live16-sl.cvattv.com.ar/live/c3eds/DeporTVHD/SA_Live_dash_enc_2A/DeporTVHD.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://silverplaytv.store/koey/d3p0rtv.json"
+        "drm_license_uri": "https://helloworl.mariabareiro.repl.co/deportv.json"
       },
       {
         "name": "TNT SPORT HD",
